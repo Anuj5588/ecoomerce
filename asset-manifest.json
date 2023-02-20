@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ecoomerce/static/css/main.d3d8795a.css",
+    "main.js": "/ecoomerce/static/js/main.bad29e01.js",
+    "static/media/pexels-pixabay-531880.jpg": "/ecoomerce/static/media/pexels-pixabay-531880.cc1e3bb23021cc3c0496.jpg",
+    "static/media/ThankYou.jpg": "/ecoomerce/static/media/ThankYou.ab20ff18767b96878901.jpg",
+    "index.html": "/ecoomerce/index.html",
+    "static/media/logo.svg": "/ecoomerce/static/media/logo.442606a3c3fdaa4d937ca030773f60ba.svg",
+    "static/media/x.svg": "/ecoomerce/static/media/x.34697784df6d41f8fadc0ce8a1cfa173.svg",
+    "static/media/menu.svg": "/ecoomerce/static/media/menu.96de8baf5fdca57a26776f055ab8e74c.svg",
+    "main.d3d8795a.css.map": "/ecoomerce/static/css/main.d3d8795a.css.map",
+    "main.bad29e01.js.map": "/ecoomerce/static/js/main.bad29e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d8795a.css",
+    "static/js/main.bad29e01.js"
+  ]
+}
